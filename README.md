@@ -26,5 +26,5 @@ Demonstrar como dados podem ser usados para **planejamento comercial**, **gestã
 ---
 
 👨‍💻 Autor: Willian Meireles  
-🔗 GitHub: [link do projeto]  
+🔗 GitHub: [[link do projeto](https://github.com/wmeireles/marketplace-insights)]  
 📣 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/willianmeireles)
